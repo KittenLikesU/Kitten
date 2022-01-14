@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="Cat Webpage, Catpage, Cat Website, CatCat1234567891011121314151617181920CatCat" />
+    <title>My Catpage</title>
+
+    <style>
+      body {
+        background-color: #ff3def;
+      }
+      img {
+        width: 100px;
+        border-radius: 75px;
+        float: left;
+        margin-right: 20px;
+        height: auto;
+      }
+
+      .usernames {
+        font-weight: bold;
+      }
+      em {
+        color: pink;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 class="Title"><em>CatBook</em></h1>
+
+    <img
+      src="catcatcat.jpg"
+      alt="The image of a cute cat could not be found :("
+    />
+    <p class="usernames"><em>@KittenLikesU</em></p>
+    <p>Evan really loves cats... Who could of known?</p>
+
+    <img src="mom.png" alt="The image of a Mom could not be found" />
+    <p class="usernames"><em>@JoeMama12345</em></p>
+    <p>Really? I didn't know that!?</p>
+    <img src="nintchdbpict000356921849.jpg" alt="There was a cat there" />
+    <p class="usernames"><em>@Evan</em></p>
+    <p>
+      {@JoeMama12345} Since you don't know that much about me, click this link!
+    </p>
+    <a href="about.html">About Evan</a>
+  </body>
+</html>
